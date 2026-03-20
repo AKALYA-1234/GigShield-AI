@@ -159,7 +159,7 @@ Weekly Premium = Daily Earnings × 0.8% × Risk Multiplier
 
 ## 🚀 Unique Value Proposition
 
-> “We don’t just insure income — we predict, prevent, and protect it.”
+ “We don’t just insure income — we predict, prevent, and protect it.”
 
 ---
 
@@ -184,6 +184,7 @@ Weekly Premium = Daily Earnings × 0.8% × Risk Multiplier
 ## 👥 Team
 
 Team Name: **DeepX**
+
 Project: **GigShield AI**
 
 ---
